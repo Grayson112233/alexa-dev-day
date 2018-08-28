@@ -26,12 +26,12 @@
         "lambda": [
           {
             "arn": "arn:aws:lambda:us-east-1:777487031222:function:ask-custom-hello-world-default",
-            "functionName": "ask-custom-hello-world-default",
+            "functionName": "arn:aws:lambda:us-east-1:777487031222:function:ask-custom-hello-world-default",
             "awsRegion": "us-east-1",
             "alexaUsage": [
               "custom/default"
             ],
-            "revisionId": "664adfa8-fd78-4152-b587-c6a982849c82"
+            "revisionId": "1abdb305-6d15-406b-a906-77b6d73349ef"
           }
         ]
       }
